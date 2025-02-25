@@ -1,5 +1,3 @@
-# hulu-webpage-clone
-
 # Hulu Clone Website
 
 ## Overview
